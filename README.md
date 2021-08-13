@@ -11,9 +11,8 @@ Todo código está disponível neste repositório
 🕗 Tempo: 3 horas
 <br><br>
 
-## Teste o jogo
-
-
+## Deseja jogar e testar? Acesse o link abaixo :)
+[Jogar](https://lucasfernandesbrazil.github.io/Game_Mata_Mosquito/)
 
 ## Fotos do projeto
 
